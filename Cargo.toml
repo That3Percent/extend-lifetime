@@ -1,0 +1,5 @@
+[package]
+name = "extend-lifetime"
+version = "0.1.0"
+authors = ["That3Percent <that3percent@gmail.com>"]
+edition = "2018"
