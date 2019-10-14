@@ -1,5 +1,15 @@
 [package]
 name = "extend-lifetime"
 version = "0.1.0"
-authors = ["That3Percent <that3percent@gmail.com>"]
+authors = ["Zac Burns <that3percent@gmail.com>"]
 edition = "2018"
+description = "A slightly safer means to extend lifetime than calling std::mem::transmute directly"
+homepage = "https://github.com/That3Percent/extend-lifetime"
+repository = "https://github.com/That3Percent/extend-lifetime"
+readme = "README.md"
+keywords = ["unsafe", "lifetimes", "static"]
+categories = []
+license = "MIT"
+
+[badges]
+maintenance = { status = "actively-developed" }
